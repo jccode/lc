@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "zh-Hans"
+# languageCode = "en-us"
+title = "L&C's SOHO"
+theme = "dream"
+defaultContentLanguage = "zh"
+# googleAnalytics = "..."
+# disqusShortname = "..."
+
+enableRobotsTXT = true
+hasCJKLanguage = true
+enableEmoji = true
+
+[params]
+avatar = "/img/avatar.png"
+author = "老Lu & 老Chen"
+description = "L&C · 老Lu&老Chen的生活点滴"
+headerTitle = "老Lu & 老Chen"
+motto = "既见君子，云胡不喜"
+
+# dark mode
+backgroundDark = "black"
+#backgroundImageDark = "/me/background-dark.jpg"
+darkLinkColor = "darkseagreen"
+
+# others
+rss = true

@@ -1,0 +1,9 @@
+#+title: L&C's SOHO
+#+startup: indent
+
+* WORKS
+** TODO publish to github
+** TODO 添加媒体账号到抖音
+** TODO 设置背景图片
+** TODO 独立域名
+** TODO 小情书
