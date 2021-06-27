@@ -13,10 +13,15 @@ enableEmoji = true
 
 [params]
 avatar = "/img/avatar.png"
+favicon = "/favicon.ico"
 author = "老Lu & 老Chen"
 description = "L&C · 老Lu&老Chen的生活点滴"
 headerTitle = "老Lu & 老Chen"
-motto = "既见君子，云胡不喜"
+motto = "抒写我们的故事..."
+siteStartYear = 2021
+#enableSearch = true
+#backgroundImage = "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+
 
 # dark mode
 backgroundDark = "black"

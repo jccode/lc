@@ -9,10 +9,9 @@ cover: /img/default1.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - category1
+  - 我们的故事
 tags:
-  - tag1
-  - tag2
+  - 纪念日
 # nolastmod: true
 draft: true
 ---
