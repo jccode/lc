@@ -1,5 +1,5 @@
 ---
-title: About me
+title: 关于
 date: 2021-06-27T09:28:38+08:00
 lastmod: 2021-06-27T09:28:38+08:00
 draft: false
